@@ -1,0 +1,3 @@
+Carrier_Cancellation=ETC_1,ETC_2,ETC_3
+RX_D=RX_N,RX_P
+SPI=CLK,MOSI,MISO
